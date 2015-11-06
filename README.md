@@ -15,6 +15,13 @@ NOTE: I no longer actively mantain this repository. I've started using ReactJS n
 
 
 ### Getting Started
+
+#### Install
+
+```
+bower install angucomplete --save-dev
+```
+
 Download the code, and include the angucomplete.js file in your page. Then add the angucomplete module to your Angular App file, e.g.
 ```html
 var app = angular.module('app', ["angucomplete"]);
